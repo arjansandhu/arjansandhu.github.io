@@ -1,0 +1,50 @@
+#pictureOfMe{
+	max-width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#heading{
+	text-align: center;
+}
+
+#openingParagraph{
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+#githubButton{
+	width: 64px;
+	height: 64px;
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#linkedinButton{
+	width: 64px;
+	height: 64px;
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bodyContainer{
+	margin-bottom: 150px;
+}
+
+.images{
+	text-align:center;
+}
+
+.lead{
+	text-align: center;
+}
