@@ -31,6 +31,15 @@
     margin-right: auto;
 }
 
+#resumeRow{
+	margin-top: 40px;
+}
+
+#resumeButton{
+	color:#5c5c5c;
+	text-decoration: none;
+}
+
 .btn{
 	margin-top: 40px;
 	margin-left: auto;
