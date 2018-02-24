@@ -5,6 +5,15 @@
 	display: block;
 }
 
+@media only screen and (max-width: 800px) {
+    #pictureOfMe{
+		max-width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+}
+
 #heading{
 	text-align: center;
 }
@@ -14,6 +23,16 @@
 	margin: auto;
 	margin-top: 40px;
 	margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 500px) {
+    #openingParagraph{
+		text-align: center;
+		margin-left: 35px;
+		margin-right: 35px;
+		margin-top: 40px;
+		margin-bottom: 30px;
+	}
 }
 
 #githubButton{
