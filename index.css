@@ -5,6 +5,21 @@
 	display: block;
 }
 
+#kobePicture{
+	max-width:150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#moneyPicture{
+	max-width:150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 5%;
+}
+
 @media only screen and (max-width: 800px) {
     #pictureOfMe{
 		max-width: 50%;
@@ -58,7 +73,8 @@
 }
 
 #resumeRow{
-	margin-top: 40px;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
 }
 
 #resumeButton{
@@ -66,8 +82,13 @@
 	text-decoration: none;
 }
 
+#projectsHeader{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
 .btn{
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -82,4 +103,9 @@
 
 .lead{
 	text-align: center;
+}
+
+.card{
+    margin-bottom: 1rem;
+	margin-top: 1rem;
 }
