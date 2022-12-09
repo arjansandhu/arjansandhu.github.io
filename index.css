@@ -40,6 +40,13 @@
 	font-size: 18px;
 }
 
+#contactParagraph{
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	font-size: 18px;
+}
+
 #currentJob{
 	text-align: center;
 	margin: auto;
